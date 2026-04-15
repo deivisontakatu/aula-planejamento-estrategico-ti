@@ -1,12 +1,5 @@
 # Planejamento Estratégico de TI
 
-## 📌 Identificação da Disciplina
-- **Nome:** Planejamento Estratégico de TI  
-- **Perfil:** Eletiva – Função 3  
-- **Carga Horária Total:** 33h20  
-- **Modalidade:** Síncrona e Assíncrona  
-- **Hora-aula:** 50 minutos  
-
 ---
 
 ## 🧾 Descrição da Disciplina

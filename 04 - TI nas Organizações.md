@@ -1,10 +1,6 @@
 # Planejamento Estratégico de TI  
 ## Aula 04 — TI nas Organizações  
 
-**Disciplina:** Planejamento Estratégico de TI  
-**Curso:** Analise e Desenvolvimento de Sistemas  
-**Semestre:** 2026/1  
-
 **Objetivo da Aula:**  
 Compreender como a área de Tecnologia da Informação é estruturada dentro das organizações, quais são suas funções, responsabilidades e como ela se integra aos processos organizacionais.
 

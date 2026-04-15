@@ -1,10 +1,6 @@
 # Planejamento Estratégico de TI  
 ## Aula 03 — Impacto da TI nos Negócios
 
-**Disciplina:** Planejamento Estratégico de TI  
-**Curso:** Análise e Desenvolvimento de Sistemas  
-**Semestre:** 2026/1  
-
 ---
 
 # 🎯 Objetivos de Aprendizagem

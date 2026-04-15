@@ -1,10 +1,6 @@
 # Planejamento Estratégico de TI  
 ## Aula 02 — TI e Estratégia Organizacional  
 
-**Disciplina:** Planejamento Estratégico de TI  
-**Curso:** Analise e Desenvolvimento de Sistemas
-**Semestre:** 2026/1
-
 ---
 
 ## 🎯 Objetivos de Aprendizagem
