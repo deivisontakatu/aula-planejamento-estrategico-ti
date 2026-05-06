@@ -13,7 +13,7 @@ A avaliação prioriza **evidências objetivas e mensuráveis**, considerando fu
 
 ## 🎯 Entrega
 
-- **Criar um Cartão no Projects ou Trello do Grupo**
+- **Criar um Cartão no Projects ou Trello do Grupo com o nome: Avaliação Planejamento Estratégico de TI - Artigo**
 - Anexar arquivo em docx, pdf ou link do documento salvo no repositório do projeto.
 
 ---
