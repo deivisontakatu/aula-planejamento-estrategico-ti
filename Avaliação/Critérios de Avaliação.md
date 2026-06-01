@@ -1,80 +1,143 @@
-# 📊 Critérios de Avaliação — Planejamento Estratégico de TI
+# Entregável — Repositório GitHub da Disciplina
 
-## 🎯 Foco da Avaliação
+## Objetivo
 
-A disciplina de **Planejamento Estratégico de TI (PETI)** avaliará especificamente a contribuição estratégica dos grupos no artigo interdisciplinar, com ênfase nos capítulos:
+Ao longo do semestre, cada aluno manteve um repositório no GitHub destinado ao armazenamento e organização dos conteúdos desenvolvidos na disciplina de **Planejamento Estratégico de TI**.
 
-- **Resultados**
-- **Discussão Interdisciplinar**
-
-A avaliação prioriza **evidências objetivas e mensuráveis**, considerando fundamentação teórica, aplicação estratégica, análise organizacional e qualidade acadêmica da produção.
+O repositório serve como um ambiente centralizado para acompanhamento da evolução das atividades, materiais estudados e entregas produzidas durante o semestre.
 
 ---
 
-## 🎯 Entrega
+# Estrutura Esperada do Repositório
 
-- **Criar um Cartão no Projects ou Trello do Grupo com o nome: Avaliação Planejamento Estratégico de TI - Artigo**
-- Anexar arquivo em docx, pdf ou link do documento salvo no repositório do projeto.
+O repositório deverá conter, obrigatoriamente:
 
----
-
-# 📘 Rubrica Analítica
-
-| Critério | Excelente (100%) | Satisfatório (50%) | Insuficiente (0%) |
-|---|---|---|---|
-| **1. (Peso 2,0) Fundamentação Teórica e Referências** | Utiliza **5 ou mais autores/referências relevantes** da área de PETI, governança, estratégia ou gestão de TI, integrados ao texto de forma crítica e coerente. | Utiliza entre **3 e 4 referências** relevantes, com uso parcial ou pouco aprofundado. | Utiliza **até 2 referências**, inadequadas ou sem relação clara com o tema. |
-| **2. (Peso 2,0) Resultados e Benefícios Organizacionais** | Apresenta **5 ou mais benefícios concretos** da solução, relacionados ao contexto empresarial (custos, produtividade, eficiência, decisão, integração etc.). | Apresenta entre **3 e 4 benefícios**, com conexão parcial ao contexto organizacional. | Apresenta **até 2 benefícios**, genéricos ou desconectados da realidade proposta. |
-| **3. (Peso 2,0) Diagnóstico Organizacional e Problemas Identificados** | Identifica e analisa **5 ou mais problemas, riscos ou oportunidades** organizacionais que justificam a proposta de TI. | Identifica entre **3 e 4 aspectos** relevantes, com análise parcial. | Identifica **até 2 aspectos**, de forma superficial ou incoerente. |
-| **4. (Peso 2,5) Alinhamento Estratégico entre Negócio e TI** | Relaciona claramente a solução a **5 ou mais objetivos estratégicos** da organização, demonstrando geração de valor e vantagem competitiva. | Relaciona a solução a **3 ou 4 objetivos estratégicos**, com justificativas parciais. | Relaciona a solução a **até 2 objetivos**, de forma superficial ou incoerente. |
-| **5. (Peso 1,5) Qualidade Acadêmica da Escrita e Estrutura** | Texto com estrutura completa, coesão, linguagem acadêmica adequada, normas atendidas e **sem erros relevantes** de escrita. | Texto compreensível, com pequenas falhas de estrutura, norma ou escrita. | Texto desorganizado, incompleto ou com erros graves de clareza e norma. |
+* Slides das aulas;
+* Resumos e anotações;
+* Atividades desenvolvidas;
+* Relatórios técnicos;
+* Diagramas e imagens;
+* Referências utilizadas;
+* Artigos e materiais complementares;
+* Arquivos do Projeto Integrador;
+* Documentações em Markdown (`.md`);
+* Demais materiais produzidos na disciplina.
 
 ---
 
-# 🧮 Cálculo da Nota
+# Atividades Desenvolvidas na Disciplina
 
-- **Excelente = 100% do peso**  
-- **Satisfatório = 50% do peso**  
-- **Insuficiente = 0% do peso**
+As seguintes atividades desenvolvidas ao longo do semestre deverão estar documentadas e organizadas no repositório GitHub:
 
-### Total de Pesos: **10,0**
-
-### Fórmula:
-**Nota Final = Soma dos Pontos Obtidos**
-
----
-
-# 📝 Orientações aos Alunos
-
-## Capítulo: Resultados
-
-Apresentar impactos esperados ou obtidos pela solução no contexto empresarial.
-
-### Incluir no mínimo:
-- 5 benefícios organizacionais
-- Evidências quantitativas ou estimativas
-- Relação entre problema e resultado esperado
-
-### Exemplos:
-- Redução de falhas
-- Aumento de produtividade
-- Redução de custos
-- Agilidade operacional
-- Melhor tomada de decisão
+| Aula    | Tema                                          | Atividade Resumida                                                                                             |
+| ------- | --------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
+| Aula 01 | Apresentação da Disciplina e Contextualização | Criar repositório GitHub da disciplina com resumo em Markdown sobre o papel estratégico da TI nas organizações |
+| Aula 01 | Apresentação da Disciplina e Contextualização | Elaborar relatório técnico sobre planejamento estratégico de TI em empresa brasileira                          |
+| Aula 02 | TI e Estratégia Organizacional                | Escolher uma empresa e apresentar descrição organizacional, missão, visão e valores                            |
+| Aula 02 | TI e Estratégia Organizacional                | Desenvolver análise inicial de alinhamento entre TI e estratégia organizacional                                |
+| Aula 03 | Impacto da TI nos Negócios                    | Analisar relatórios da PwC e McKinsey relacionando dados, estratégia e impactos organizacionais da TI          |
+| Aula 04 | TI nas Organizações                           | Analisar dados da pesquisa FGV sobre uso de TI nas empresas brasileiras                                        |
+| Aula 04 | TI nas Organizações                           | Selecionar indicadores da pesquisa FGV e relacionar com os conceitos estudados em aula                         |
+| Aula 05 | Estratégia Competitiva                        | Analisar as ideias de Michael Porter e relacionar as Cinco Forças Competitivas ao Projeto Integrador           |
 
 ---
 
-## Capítulo: Discussão Interdisciplinar
+# Requisitos Obrigatórios
 
-Analisar como diferentes áreas contribuíram para a solução e como a TI atua estrategicamente.
+## 1. Repositório Público
 
-### Incluir no mínimo:
-- 5 referências teóricas da área de PETI.
-- 3 problemas ou oportunidades organizacionais analisados
-- Discussão crítica sobre valor estratégico
+O repositório deverá permanecer público durante todo o semestre para acompanhamento das atividades e avaliações.
 
-### Exemplos:
-- Integração entre disciplinas
-- Papel estratégico da TI
-- Transformação digital
-- Governança
-- Sustentabilidade da solução
+---
+
+## 2. Organização e Atualização
+
+O estudante deverá manter o repositório atualizado continuamente, organizando os materiais por aulas, atividades e conteúdos relacionados.
+
+---
+
+## 3. Envio
+
+* O envio do link do repositório deverá ser realizado pelo formulário: https://forms.gle/GyEM2nodQwHuSUba9
+* É responsabilidade do estudante alterar a URL em caso de alteração no GitHub.
+
+---
+
+# Critérios de Avaliação
+
+A composição da média final da disciplina será realizada conforme os seguintes pesos:
+
+| Avaliação             | Peso (%) |
+| --------------------- | -------: |
+| Avaliação Integradora |      20% |
+| Autoavaliação         |      10% |
+| Projeto Integrador    |      35% |
+| Prova                 |    17,5% |
+| GitHub                |    8,75% |
+| Portal Online         |    8,75% |
+
+---
+
+# Composição da Nota Final
+
+```text
+MF = ((Avaliação Integradora × 20)
+    + (Autoavaliação × 10)
+    + (Projeto Integrador × 35)
+    + (Prova × 17,5)
+    + (GitHub × 8,75)
+    + (Portal Online × 8,75)) / 100
+```
+
+---
+
+# Explicação das Avaliações
+
+## Prova — 17,5%
+
+A avaliação da prova será realizada por meio da:
+
+* Escrita dos dois capítulos do artigo científico;
+* Desenvolvimento da fundamentação teórica relacionada aos conteúdos da disciplina;
+* Estruturação acadêmica e organização textual;
+* Aplicação dos conceitos de Planejamento Estratégico de TI no contexto do Projeto Integrador;
+* Clareza, coerência e qualidade técnica da escrita científica.
+
+---
+
+## GitHub — 8,75%
+
+A nota do GitHub será atribuída considerando:
+
+* Organização do repositório;
+* Atualização contínua;
+* Clareza da documentação;
+* Estruturação das atividades;
+* Inclusão de slides, referências, materiais complementares e entregas;
+* Qualidade técnica dos arquivos disponibilizados.
+
+---
+
+## Portal Online — 8,75%
+
+A nota referente ao Portal Online será composta pelas:
+
+* Atividades realizadas no portal EAD;
+* Participação nas atividades propostas;
+* Entregas e interações solicitadas durante o semestre.
+
+---
+
+# Considerações Finais
+
+O repositório GitHub representa não apenas uma forma de entrega das atividades, mas também um ambiente de construção contínua do conhecimento ao longo da disciplina.
+
+A organização adequada dos materiais facilitará:
+
+* o desenvolvimento do Projeto Integrador;
+* a produção do artigo científico;
+* futuras apresentações;
+* submissões acadêmicas;
+* continuidade do trabalho nos próximos semestres.
+
+O objetivo é estruturar um ambiente técnico e acadêmico que permita a evolução contínua dos projetos desenvolvidos durante a disciplina.
